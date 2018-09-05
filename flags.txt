@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 singapore
-=======
-malaysia
->>>>>>> c953eb93a927db9f85a7dfc67585d733517896b9
